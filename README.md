@@ -53,8 +53,7 @@ Missing values are handled using mean imputation.
 - Visualizations like correlation heatmap (optional)
 - Health tips based on outcome
 
-### 📷 Screenshot
-![App Screenshot](assets/screenshot.png)
+
 
 ---
 
